@@ -1,4 +1,4 @@
-# Forecasting_EV_ICEV
+# Forecasting_EVs_and_ICE_Vehicles
 Forecasting the Future of EV and ICE Vehicle Markets and Their Associated CO₂ Emissions in Delhi Using a Deep Learning &amp; Statistical Approach.
 
 India's road transport sector contributes to nearly 90% of the country’s transportation-related CO₂ emissions, making it a critical area for decarbonization to meet national climate goals. A recent meta-analysis of eight leading energy and emissions models for India’s road transport sector revealed significant discrepancies in assumptions, particularly in Business-As-Usual (BAU) scenarios. Still, there is broad agreement that vehicle activity and emissions will grow rapidly under current trends. High Ambition and Aggressive Policy scenarios suggest that significant CO₂ reductions—up to 45–50% cumulatively by 2050—are possible through electrification, modal shifts, and grid decarbonization. COVID-19 had a notable short-term impact, altering vehicle sales and travel patterns, thereby shifting energy and emissions trajectories.
